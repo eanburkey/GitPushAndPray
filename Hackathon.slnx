@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="hackathon.client/hackathon.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Hackathon.Server/Hackathon.Server.csproj" />
+</Solution>

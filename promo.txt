@@ -1,0 +1,34 @@
+Here's a promotional speech based on what's in the codebase:
+---
+🎤 Promotional Speech: DeskSync — The Smart Office Booking Platform
+---
+Imagine walking into the office knowing your desk is already waiting for you — perfectly positioned near your team, equipped with everything you need, booked automatically before you even thought about it. That's exactly what DeskSync delivers.
+---
+🏢 Intelligent Auto-Booking
+Gone are the days of scrambling to find a desk on a Monday morning. DeskSync's Auto-Booker engine automatically reserves desks for your entire team every week, based on admin-approved preferred office days. It's smart enough to skip days when you're on holiday, avoid conflicts, and even displace stale bookings gracefully — all with zero effort from your team.
+---
+🗺️ Interactive Floor Plans
+With our beautiful visual floor plan, you can see exactly where every desk is, which ones are free, and where your teammates are sitting — all in real time. Need a bird's-eye view? Pop open the Full Floor Map modal and see the whole floor at a glance. Want to drill down? Click any desk for full details, availability, and one-click booking.
+---
+♿ Accessibility-First Design
+DeskSync doesn't just find you a desk — it finds you the right desk. Users can register their accessibility needs — standing desks, treadmill desks, large monitors, dual monitors — and the platform automatically matches them to desks equipped for exactly those requirements. Inclusion isn't an afterthought; it's built into the booking engine itself.
+---
+👥 Teams & Virtual Teams
+DeskSync is built for how modern organisations actually work. Permanent teams get their own home floor and wing, with manager-controlled preferred days. But for cross-functional projects, managers can spin up Virtual Teams — temporary groupings that override normal booking rules for the duration of a project, seating those members together at a dedicated space. When the project ends, everyone flows back to their home team seamlessly.
+---
+🔄 Desk Trading
+Life happens. DeskSync's Trade Request system lets employees offer up their booked desk, specify a preferred floor or zone they'd like instead, and let a colleague accept the swap — keeping the office running smoothly without admin overhead.
+---
+📅 Holiday & Out-of-Office Management
+Employees can log individual holiday days or entire ranges directly in the app. The auto-booker automatically skips booking desks on those days — no wasted space, no phantom reservations, no manual clean-up.
+---
+🔔 Real-Time Notifications
+From trade acceptances to displacement alerts, DeskSync keeps everyone in the loop with a built-in notification system, so no one is ever caught off guard by a change to their booking.
+---
+🛡️ Role-Based Control
+DeskSync supports a full role hierarchy — Members, Team Managers, and Admins — each with the right level of control. Managers can request changes to team office days. Admins approve them. Desks can be toggled bookable or non-bookable at any time. The right people have the right power.
+---
+🚀 Built for the Modern Workplace
+Powered by .NET 10 on the backend and a snappy React + TypeScript frontend, DeskSync is fast, reliable, and ready to scale. Whether your office has one floor or twenty, DeskSync grows with you.
+---
+DeskSync — Your team, your desk, your day. Sorted.
